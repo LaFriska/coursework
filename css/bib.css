@@ -1,0 +1,15 @@
+.normal {
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 13pt;
+    font-style: normal
+}
+
+.author {
+    font-size: 13pt;
+    font-weight: 400
+}
+
+.italic {
+    font-style: italic
+}

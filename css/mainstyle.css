@@ -1,0 +1,71 @@
+h1, h2, h3{
+    text-align: center;
+    font-family: "Courier New", serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+p{
+    line-height: 1.75;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Courier New", serif;
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+    height: 8%;
+}
+
+.cite{
+    text-decoration: none;
+}
+
+.header{
+    background-color: #b50000;
+    align-items: center;
+}
+
+.bodysec{
+    margin-top: 60px;
+}
+
+.source{
+    text-indent: -48px;
+    margin-left: 48px;
+}
+
+.box{
+    width: 600px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000736;
+}
+
+.boxtext{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.boxpar{
+    background-color: #010d59;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sourcediv{
+
+}
