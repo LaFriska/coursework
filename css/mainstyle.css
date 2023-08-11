@@ -71,12 +71,6 @@ body{
 }
 
 html {
-    scroll-behavior: auto !important;
-}
-
-
-
-@keyframes highlight {
-    from {background-color: dimgray}
-    to {background-color: black}
+    scroll-behavior: smooth; !important;
+    scroll-padding-top: 200px;
 }
