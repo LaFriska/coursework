@@ -52,7 +52,7 @@ body{
     padding: 25px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #000736;
+    background-color: black;
 }
 
 .boxtext{
@@ -67,5 +67,14 @@ body{
 }
 
 .sourcediv{
+    background-color: blue;
+}
 
+html {
+    scroll-behavior: auto !important;
+}
+
+@keyframes highlight {
+    from {background-color: dimgray}
+    to {background-color: black}
 }
